@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on simple and attractive web pages.<br>👯 I’m looking to collaborate on Collaborate on a Full-Stack Web Application with a Designer and a Backend Developer<br>🤝 I’m looking for help with networking<br>🌱 I’m currently learning web development and Cybersecurity<br>💬 Ask me about<br>⚡ Fun fact: During his hacking days, Mitnick was so skilled at social engineering—manipulating people to divulge confidential information—that he was able to trick a telephone company employee into giving him access to their network.
+🔭 I’m currently working on simple and attractive web pages.<br>👯 I’m looking to collaborate on Collaborate on a Full-Stack Web Application with a Designer and a Backend Developer<br>🤝 I’m looking for help with networking<br>🌱 I’m currently learning web development and Cybersecurity<br>💬 Ask me about<br>⚡ Fun fact: Mitnick was so skilled at social engineering—manipulating people to divulge confidential information—that he was able to trick a telephone company employee into giving him access to their network.
 
 
 ## 🌐 Socials:
